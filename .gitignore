@@ -1,0 +1,8 @@
+# confidential
+secrets.py
+
+# openvpn
+/openvpn
+
+# testing
+scrub-backup.py
